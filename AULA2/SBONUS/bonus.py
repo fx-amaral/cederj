@@ -1,0 +1,5 @@
+N=str(input())
+S=float(input())
+V=float(input())
+B=(S+((15/100)*V))
+print(f"TOTAL = {B:.2f}")
